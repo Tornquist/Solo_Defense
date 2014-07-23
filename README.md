@@ -1,7 +1,7 @@
 Solo Defense
 ==========
 
-This is my first Android game.  Solo [Pong] is the first game I write in every new language that I learn.  It's an exercise in getting something a little bit more complicated than `Hello World` up and running.  The game has not been updated since Android 2.3 and has  few modern font issues, but still functions.  The most exciting thing was a legal struggle (that I quickly lost) with Atari for an attempt to use Pong in the title
+This is my first Android game.  Solo Defense is the first game I write in every new language that I learn.  It's an exercise in getting something a little bit more complicated than `Hello World` up and running.  The game has not been updated since Android 2.3 and has few modern font issues, but is still very playable and has a large Android user base. 
 
 
 ###Goals
